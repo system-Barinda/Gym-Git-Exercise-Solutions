@@ -21,7 +21,15 @@ $ touch service.html
 
 
 ```
+## Bundle 2 - exercise 2:
+```
+// I already made pull from origin main the latest changes
 
+user@LAPTOP-ICNU96T9 MINGW64 ~/Documents/GitHub/Gym-git-Exercise-Solutions (main)
+$ git branch ft/service-redesign
+
+
+```
 # Bundle 1
 # Exercise 1: here I delete files and folder  are not neccessary to my project all  now are done/
 
