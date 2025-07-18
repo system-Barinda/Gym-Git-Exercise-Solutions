@@ -56,5 +56,24 @@ Switched to a new branch 'ft/team-page'
 user@LAPTOP-ICNU96T9 MINGW64 ~/Documents/GitHub/Gym-git-Exercise-Solutions (ft/team-page)  
 $ touch team.html
 
+user@LAPTOP-ICNU96T9 MINGW64 ~/Documents/GitHub/Gym-git-Exercise-Solutions (ft/contact-page)
+$ git switch ft/team-page
+Switched to branch 'ft/team-page'
 
+user@LAPTOP-ICNU96T9 MINGW64 ~/Documents/GitHub/Gym-git-Exercise-Solutions (ft/team-page)  
+$ git log
+commit 2d50f4915b8d04b512758373b8eaf39ecb9a5c1a (HEAD -> ft/team-page, origin/ft/team-page)
+Author: system sylvere BARINDA <systembarinda@gmail.com>
+Date:   Fri Jul 18 11:58:18 2025 +0200
+
+    in team files are added some new changes
+
+
+user@LAPTOP-ICNU96T9 MINGW64 ~/Documents/GitHub/Gym-git-Exercise-Solutions (ft/contact-page)
+$ git log ft/team-page -1 
+commit 2d50f4915b8d04b512758373b8eaf39ecb9a5c1a (origin/ft/team-page, ft/team-page)
+Author: system sylvere BARINDA <systembarinda@gmail.com>
+Date:   Fri Jul 18 11:58:18 2025 +0200
+
+    in team files are added some new changes
 ```
