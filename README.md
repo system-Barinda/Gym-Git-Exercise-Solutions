@@ -87,5 +87,10 @@ $ touch contact.html
 user@LAPTOP-ICNU96T9 MINGW64 ~/Documents/GitHub/Gym-git-Exercise-Solutions (ft/faq-page)
 $ touch faq.html
 
+user@LAPTOP-ICNU96T9 MINGW64 ~/Documents/GitHub/Gym-git-Exercise-Solutions (ft/faq-page)   
+$ git revert ft/team-page
+[ft/faq-page 2595d65] Revert "in team files are added some new changes"
+ 1 file changed, 4 deletions(-)
+
 
 ```
