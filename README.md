@@ -5,6 +5,8 @@
 $ touch home.html
   user@LAPTOP-ICNU96T9 MINGW64 ~/Documents/GitHub/Gym-git-Exercise-Solutions (dev)
 $ touch about.html
+user@LAPTOP-ICNU96T9 MINGW64 ~/Documents/GitHub/Gym-git-Exercise-Solutions (dev)
+$ touch team.html
 
 
 ```
