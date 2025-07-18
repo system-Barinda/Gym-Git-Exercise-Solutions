@@ -109,7 +109,13 @@ $ git push origin ft/faq-page
 ```
 ## Bundle 3 - exercise 2:
 ``` bash
+user@LAPTOP-ICNU96T9 MINGW64 ~/Documents/GitHub/Gym-git-Exercise-Solutions (ft/faq-page)
+$ git branch ft/home-page-redesign
 
+user@LAPTOP-ICNU96T9 MINGW64 ~/Documents/GitHub/Gym-git-Exercise-Solutions (ft/faq-page)
+$ git switch main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
 
 
 
