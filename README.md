@@ -107,3 +107,18 @@ $ git push origin ft/faq-page
 
 
 ```
+## bundel 3 - exercise 2:
+
+``` bash 
+
+user@LAPTOP-ICNU96T9 MINGW64 ~/Documents/GitHub/Gym-git-Exercise-Solutions (main)
+$ git switch ft/faq-page
+Switched to branch 'ft/faq-page'
+Your branch is up to date with 'origin/ft/faq-page'.
+
+user@LAPTOP-ICNU96T9 MINGW64 ~/Documents/GitHub/Gym-git-Exercise-Solutions (ft/faq-page)
+$ git branch ft/home-page-redesign
+
+
+
+```
