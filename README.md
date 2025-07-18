@@ -115,4 +115,9 @@ user@LAPTOP-ICNU96T9 MINGW64 ~/Documents/GitHub/Gym-git-Exercise-Solutions (main
 $ git switch ft/home-page-redesign
 Switched to branch 'ft/home-page-redesign'
 Your branch is up to date with 'origin/ft/home-page-redesign'.
+user@LAPTOP-ICNU96T9 MINGW64 ~/Documents/GitHub/Gym-git-Exercise-Solutions (ft/home-page-redesign)
+$ git fetch origin
+
+
+
 ```
