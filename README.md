@@ -83,4 +83,27 @@ Date:   Fri Jul 18 11:58:18 2025 +0200
 
 user@LAPTOP-ICNU96T9 MINGW64 ~/Documents/GitHub/Gym-git-Exercise-Solutions (ft/contact-page)
 $ touch contact.html    
+
+user@LAPTOP-ICNU96T9 MINGW64 ~/Documents/GitHub/Gym-git-Exercise-Solutions (ft/faq-page)
+$ touch faq.html
+
+user@LAPTOP-ICNU96T9 MINGW64 ~/Documents/GitHub/Gym-git-Exercise-Solutions (ft/faq-page)   
+$ git revert ft/team-page
+[ft/faq-page 2595d65] Revert "in team files are added some new changes"
+ 1 file changed, 4 deletions(-)
+
+
+user@LAPTOP-ICNU96T9 MINGW64 ~/Documents/GitHub/Gym-git-Exercise-Solutions (ft/faq-page)   
+$ git add .
+
+user@LAPTOP-ICNU96T9 MINGW64 ~/Documents/GitHub/Gym-git-Exercise-Solutions (ft/faq-page)   
+$ git commit -m"  I just made new revert in this branch"
+[ft/faq-page 60b7d87]   I just made new revert in this branch
+ 1 file changed, 5 insertions(+)
+
+user@LAPTOP-ICNU96T9 MINGW64 ~/Documents/GitHub/Gym-git-Exercise-Solutions (ft/faq-page)   
+$ git push origin ft/faq-page
+
+
+
 ```
