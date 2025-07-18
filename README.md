@@ -107,3 +107,10 @@ $ git push origin ft/faq-page
 
 
 ```
+## Bundle 3 - exercise 2:
+``` bash
+
+
+
+
+```
