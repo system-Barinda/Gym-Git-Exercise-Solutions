@@ -47,3 +47,14 @@ rm 'git-files/home.html'
 
 ```
 ## Bundle 2
+### bundle 3 exercise 1:
+```
+user@LAPTOP-ICNU96T9 MINGW64 ~/Documents/GitHub/Gym-git-Exercise-Solutions (main)
+$ git checkout -b ft/team-page
+Switched to a new branch 'ft/team-page'
+
+user@LAPTOP-ICNU96T9 MINGW64 ~/Documents/GitHub/Gym-git-Exercise-Solutions (ft/team-page)  
+$ touch team.html
+
+
+```
