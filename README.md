@@ -76,4 +76,9 @@ Author: system sylvere BARINDA <systembarinda@gmail.com>
 Date:   Fri Jul 18 11:58:18 2025 +0200
 
     in team files are added some new changes
+
+
+
+user@LAPTOP-ICNU96T9 MINGW64 ~/Documents/GitHub/Gym-git-Exercise-Solutions (ft/contact-page)
+$ touch contact.html    
 ```
