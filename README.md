@@ -83,4 +83,9 @@ Date:   Fri Jul 18 11:58:18 2025 +0200
 
 user@LAPTOP-ICNU96T9 MINGW64 ~/Documents/GitHub/Gym-git-Exercise-Solutions (ft/contact-page)
 $ touch contact.html    
+
+user@LAPTOP-ICNU96T9 MINGW64 ~/Documents/GitHub/Gym-git-Exercise-Solutions (ft/faq-page)
+$ touch faq.html
+
+
 ```
