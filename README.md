@@ -27,10 +27,12 @@ $ touch service.html
 
 user@LAPTOP-ICNU96T9 MINGW64 ~/Documents/GitHub/Gym-git-Exercise-Solutions (main)
 $ git branch ft/service-redesign
+
 // all changes I made in service.html 
 user@LAPTOP-ICNU96T9 MINGW64 ~/Documents/GitHub/Gym-git-Exercise-Solutions (main)
 $ git push origin main
 // now I'm going to ft/service-redesign
+
 
 
 
