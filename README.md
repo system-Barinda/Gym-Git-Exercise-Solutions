@@ -56,5 +56,7 @@ Switched to a new branch 'ft/team-page'
 user@LAPTOP-ICNU96T9 MINGW64 ~/Documents/GitHub/Gym-git-Exercise-Solutions (ft/team-page)  
 $ touch team.html
 
+user@LAPTOP-ICNU96T9 MINGW64 ~/Documents/GitHub/Gym-git-Exercise-Solutions (main)
+$ git branch ft/contact-page
 
 ```
