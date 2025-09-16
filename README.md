@@ -7,3 +7,6 @@ Challenge: Use interactive rebasing with the squash command to achieve this. lea
 
 Imagine "Create third and fourth files" describes too much at once. Separate them for better tracking with two different commit messages: "Create Third File" and "Create fourth file".
 Challenge: Leverage git reset to separate the files into individual commits with distinct messages. learn more about splitting commits
+
+## Advanced Squashing here the Challenge: Utilize interactive rebasing with the squash command to achieve this advanced squash. Check step 4
+
