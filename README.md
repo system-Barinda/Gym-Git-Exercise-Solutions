@@ -17,3 +17,4 @@ We all make mistakes. Imagine needing to completely remove an unwanted commit fr
 Create a new file named unwanted.txt add some changes and commit it with a message like "Unwanted commit".
 
 ## the 7 question complited : Reordering Commits
+## the 8 question complited :Cherry-Picking Commits
