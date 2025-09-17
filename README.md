@@ -18,3 +18,4 @@ Create a new file named unwanted.txt add some changes and commit it with a messa
 
 ## the 7 question complited : Reordering Commits
 ## the 8 question complited :Cherry-Picking Commits
+## all about the part one it is complited here 
