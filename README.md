@@ -15,3 +15,5 @@ Challenge: Leverage git reset to separate the files into individual commits with
 We all make mistakes. Imagine needing to completely remove an unwanted commit from your history.
 
 Create a new file named unwanted.txt add some changes and commit it with a message like "Unwanted commit".
+
+## the 7 question complited : Reordering Commits
