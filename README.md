@@ -10,3 +10,8 @@ Challenge: Leverage git reset to separate the files into individual commits with
 
 ## Advanced Squashing here the Challenge: Utilize interactive rebasing with the squash command to achieve this advanced squash. Check step 4
 
+# i just complite the 6: Dropping a Commit:
+
+We all make mistakes. Imagine needing to completely remove an unwanted commit from your history.
+
+Create a new file named unwanted.txt add some changes and commit it with a message like "Unwanted commit".
