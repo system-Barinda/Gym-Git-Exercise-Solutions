@@ -1,0 +1,12 @@
+# Ignore all tmp folders
+/tmp
+
+# Ignore log files
+*.log
+
+# Ignore OS-specific files (Windows, Mac)
+Thumbs.db
+.DS_Store
+
+# Ignore node_modules (for JavaScript projects)
+node_modules/
