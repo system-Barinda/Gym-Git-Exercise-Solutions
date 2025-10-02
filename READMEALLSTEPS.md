@@ -100,3 +100,38 @@ git rebase -i HEAD~4
 
 In the editor, simply rearrange the lines (each line represents a commit).
 Save and exit — Git will replay them in your new order.
+
+
+### 8. Cherry-Picking Commits
+
+git checkout -b ft/branch
+echo "Content for test5" > test5.md
+git add test5.md
+git commit -m "Implemented test 5"
+
+git checkout dev
+
+** Cherry-pick the commit from ft/branch into main **
+
+git log --oneline ft/branch         # Copy the commit hash of "Implemented test 5"
+git cherry-pick <commit-hash>
+
+### 9. Visualizing Commit History (Bonus)
+
+git log --graph --oneline --all
+
+Or use GUI tools like:
+GitKraken,Sourcetree,VS Code Git Graph Extension
+
+### 10. Understanding Reflogs (Bonus)
+
+```bash
+git reflog
+
+You’ll see entries like:
+
+a1b2c3d HEAD@{0}: commit: Implemented test 5
+e4f5g6h HEAD@{1}: reset: moving to previous commit
+...
+
+
