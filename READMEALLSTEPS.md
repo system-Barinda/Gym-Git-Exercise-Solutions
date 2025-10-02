@@ -189,9 +189,42 @@ git rebase dev
 
 git branch -m ft/new-branch-from-commit ft/improved-branch-name
 
-### Detached HEAD
+### 10. Detached HEAD
 
 git checkout <commit-hash>
+
+
+##  Part 3: Advanced Workflows (10+ Challenges)
+
+This section covers **real-world scenarios** involving stashing, conflict resolution, tagging, ignoring files, and remote collaboration.
+
+---
+
+### 1️⃣ Stashing Changes
+
+Save your uncommitted work temporarily:
+
+```bash
+git stash
+
+### 2️⃣ Retrieving Stashed Changes
+
+git stash pop
+
+### 3️⃣ Simulating Merge Conflicts
+
+git checkout main
+git merge <branch-name>
+
+### 4️⃣ Using a Merge Tool (Optional)
+
+git mergetool
+
+### 5️⃣ Understanding Detached HEAD
+
+git checkout <commit-hash>
+git checkout dev
+
 
 
 
