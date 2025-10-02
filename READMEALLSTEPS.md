@@ -135,3 +135,67 @@ e4f5g6h HEAD@{1}: reset: moving to previous commit
 ...
 
 
+
+##  Part 2: Branching Basics (10 Challenges)
+
+
+---
+
+## 1 Feature Branch Creation
+
+Create and switch to a new branch for a feature:
+
+```bash
+git checkout -b ft/new-feature
+
+## 2 .Working on the Feature Branch
+
+echo "This is a new feature" > feature.txt
+git add feature.txt
+git commit -m "Implemented core functionality for new feature"
+
+## 3 Switching Back and Making More Changes
+
+git checkout main
+echo "Project Introduction" > readme.txt
+git add readme.txt
+git commit -m "Updated project readme"
+
+## 4. Local vs. Remote Branches:
+
+git push -u origin ft/new-feature
+
+### 5. Branch Deletion
+
+git branch -d ft/new-feature          // Deletes locally
+git push origin --delete ft/new-feature   // Deletes remotely (optional)
+
+### 6. Creating a Branch from a Specific Commit
+
+git log --oneline                     // Copy the commit hash (2 commits back)
+git checkout -b ft/new-branch-from-commit <commit-hash>
+
+### 7. Branch Merging
+
+git checkout dev
+git merge ft/new-branch-from-commit
+
+### 8. Branch Rebasing
+
+git checkout ft/new-branch-from-commit
+git rebase dev
+
+### 9. Renaming Branches
+
+git branch -m ft/new-branch-from-commit ft/improved-branch-name
+
+### Detached HEAD
+
+git checkout <commit-hash>
+
+
+
+
+
+
+
