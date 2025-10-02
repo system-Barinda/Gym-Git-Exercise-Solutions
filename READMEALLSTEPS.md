@@ -225,6 +225,34 @@ git mergetool
 git checkout <commit-hash>
 git checkout dev
 
+### 6️⃣ Ignoring Files/Directories
+
+touch .gitignore
+
+/tmp
+
+### 7️⃣ Working with Tags
+
+ git tag v1.0 
+
+### 8️⃣ Listing & Deleting Tags
+
+git tag                  // List all tags
+git tag -d v1.0          //  Delete a specific tag
+
+### 9️⃣ Pushing Local Work to Remote
+
+git push -u origin <branch-name>
+
+### 🔟 Pulling Changes from Remote
+
+git pull origin <branch-name>
+
+
+
+
+
+
 
 
 
