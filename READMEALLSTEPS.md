@@ -5,7 +5,6 @@ Follow the steps below to set up your Git repository and make initial commits.
 ---
 
 ## 1️⃣ Create a New Git Repository
-
 1. Go to **GitHub** and click on **New Repository**.
 2. Enter a repository name (e.g. `Gym-Git-Exercise-Solutions) and create it.
 3. Clone the repository to your local machine:
